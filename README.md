@@ -37,17 +37,17 @@ Team Member 1:
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-GWc9PP8Qd8pJLht
 
 Team Member 2:
- - Full Name: 
+ - Full Name: Abdullah Kazi
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 3:
- - Full Name: 
+ - Full Name: Rishikesh Gokhale
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 4:
- - Full Name: 
+ - Full Name: Sara Latreche 
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
