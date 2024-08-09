@@ -52,8 +52,79 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+**Womanium Quantum AI Project 2024**
+# :space_invader: Quantum-AI-for-Climate - Team Q-MARS 
+
+  - [Project Description](#Projectdescription)
+- [ Setup Instructions](#SetupInstructions)
+-  [Team Introduction](#team-introduction)
+- [Acknowledgement](#Acknowledgement)
+
+
+
+
+
+## Project Description
+
+## Results
+
+Objectives
+- Write here
+
+## Setup Instructions
+
+#### 1. **Clone the Repository**
+
+   Open your terminal or command prompt and run the following command to clone the repository:
+
+   ```bash
+   git clone 
+```
+Navigate into the project directory:
+```bash
+cd 
+```
+#### 2. **Create a Python Virtual Environment**
+Create a virtual environment to manage dependencies:
+
+```bash
+python -m venv venv
+```
+#### 3. **Activate the Virtual Environment**
+On Windows:
+```bash
+venv\Scripts\activate
+```
+On macOS and Linux:
+```bash
+source venv/bin/activate
+```
+#### 4. **Install Dependencies**
+Install the required dependencies listed in the ['requirements.txt'] file:
+
+#### 5. **Download the Dataset**
+Download the 
+Or 
+Directly use a processed data file from the directory.
+## Usage of the Project
+- `QWNN.ipynb` - Contains notebook for Training .
+
+
+## Team Introduction
+**Team Name:** Feynman Prodigies 
+
+|   **Member Names**| **Abdullah Kazi**                      | **Maham Khalid** | **Rishikesh Gokhale** |   **Sara latreche** |
+|----------------|-----------------------------------|----------------------------|----------------------------|----------------------------|
+| **GitHub ID**  | AbdullahKazi500                   | maham-khalid1      | rishihg      |   Latrechesara|
+
+
+
+----------------------
+
+## Acknowledgement
+We would like to extend our heartfelt gratitude to WOMANIUM
+Thank you for the opportunity to participate in this event, which has not only enriched our knowledge and skills but also connected us with a network of like-minded professionals and enthusiasts.
+
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
