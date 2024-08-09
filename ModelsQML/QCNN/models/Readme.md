@@ -1,3 +1,4 @@
+
 Data Preparation: We loaded and preprocessed seismic data, including normalizing the seismic trace and impedance data. We added noise to the seismic data to simulate real-world conditions.
 
 Data Splitting: We split the data into training, validation, and test sets, converting them into PyTorch tensors for model training.
@@ -11,3 +12,8 @@ Training: We trained the VQCNN model using the training data, and tracked both t
 Evaluation: We evaluated the model on a test set and visualized performance using metrics such as confusion matrix, training and validation losses, and seismic trace plots.
 
 Visualization: We plotted the noisy and original seismic traces, as well as the normalized impedance traces, to visualize the data and model results.
+
+
+
+![qccccnn](https://github.com/user-attachments/assets/e8125839-f8e4-4592-aed8-ede064615be9)
+![bcnnnnnnn](https://github.com/user-attachments/assets/a44159cc-8538-43fa-8da2-fb5c483ae37b)
