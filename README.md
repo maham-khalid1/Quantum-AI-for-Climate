@@ -73,6 +73,21 @@ Seismic impedance reveals extensive geological information about the subsurface.
 
 The two major challenges of seismic inversion are that it is often an ill-posed problem with multiple possible solutions that can fit the data, making it difficult to obtain a unique and accurate result [3]. Additionally, noise in the seismic data can obscure crucial information and degrade the quality of the inversion, further complicating the process.
 ## Results
+![autoencddd](https://github.com/user-attachments/assets/0fdadf7e-e06b-43c7-befc-a7e5ba6e5b04)
+![autoc](https://github.com/user-attachments/assets/8c250c6a-ce8d-4f9b-afd5-7e5e1c98fc65)
+![PCA](https://github.com/user-attachments/assets/b0b34a8e-5448-439d-9aad-af1949d33c74)
+![pcaaaaaa](https://github.com/user-attachments/assets/d9633ce4-d58a-464d-a3d8-99cb6134d9da)
+![PCCCCAAAAAA](https://github.com/user-attachments/assets/613faf40-118c-469c-9947-f7cdc47fdeb4)
+![PCAAAGG](https://github.com/user-attachments/assets/66097c96-7ab1-4512-a919-02f1b47e12ba)
+![qcbnnnn](https://github.com/user-attachments/assets/93e00011-bb49-4e62-a371-7061a224887b)
+![bnnhjs](https://github.com/user-attachments/assets/bf8d7d7a-e7cb-44d4-b1db-97df4275a8dc)
+![autoencoder](https://github.com/user-attachments/assets/ff3f74b5-9857-4468-bb8f-e89e517dd58f)
+![kernelPCA](https://github.com/user-attachments/assets/8c50b15d-0727-4cb3-8e9b-21b3e60368a8)
+![qccccnn](https://github.com/user-attachments/assets/5261be4a-5091-4bd3-bb21-dd743994110b)
+![bcnnnnnnn](https://github.com/user-attachments/assets/64a42f87-c9dc-47dd-84f3-941cab51580d)
+![QPEEEEE](https://github.com/user-attachments/assets/a18b21e9-d4f0-40d8-a4ab-4fdcbcb96b58)
+![QEPPPPPPEPPE](https://github.com/user-attachments/assets/85d26d49-533f-4b76-8be9-08fff868a82c)
+![QEPPPSPPPPS](https://github.com/user-attachments/assets/9ed2f62e-5e34-419a-bc0c-cbcd4d8bacf8)
 
 Objectives
 - Write here
