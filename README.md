@@ -65,7 +65,13 @@ Team Member 4:
 
 
 ## Project Description
+As Dr. Youzuo Lin succinctly put it: ** “Seismic waves are currently the only effective tool that can penetrate the entire Earth, and seismic inversion (tomography) is used to obtain the structural information of the Earth” ** [1]. This structural information has led to the discovery of oil wells and the monitoring of geothermal energy extracted from the Earth's crust, along with other subsurface features. By accurately mapping these structures, seismic inversion enables more effective resource exploration and management, significantly impacting industries like energy and environmental science.
 
+Seismic inversion is a straightforward yet powerful technique. It involves transforming routine reflectivity data, which typically highlights interfaces like geological boundaries, into rock properties known as impedance—calculated by multiplying sonic velocity and bulk density. In conventional seismic sections, high-amplitude reflections mark geological formation boundaries, such as the top of a reservoir, making them well-suited for structural analysis. In contrast, inverted data provides insights into internal rock properties, such as lithology, porosity, and fluid types (like brine or hydrocarbons). This makes seismic inversion particularly valuable for stratigraphic interpretation and reservoir characterization.
+
+Seismic impedance reveals extensive geological information about the subsurface. Accurate seismic impedance inversion is essential for interpreting seismic data effectively [2]. This process can be divided into two categories: linear impedance inversion and nonlinear impedance inversion. Linear impedance inversion assumes a direct, proportional relationship between seismic data and impedance. However, nonlinear impedance inversion accounts for more complex, non-proportional relationships by employing nonlinear models and algorithms, capturing intricate geological variations.
+
+The two major challenges of seismic inversion are that it is often an ill-posed problem with multiple possible solutions that can fit the data, making it difficult to obtain a unique and accurate result [3]. Additionally, noise in the seismic data can obscure crucial information and degrade the quality of the inversion, further complicating the process.
 ## Results
 
 Objectives
