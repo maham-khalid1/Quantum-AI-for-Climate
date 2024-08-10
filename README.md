@@ -81,7 +81,7 @@ The key goals include normalizing and preprocessing seismic and impedance trace 
 
 Through the implementation and testing of these quantum circuits, the project seeks to demonstrate the potential of quantum computing to revolutionize seismic data analysis, offering more precise and efficient solutions for geophysical challenges.
 
-# Methods and objectives
+### Methods and objectives
 #### 1. **Variational Quantum Classifier (VQC) Neural Network**
 **Method Description:**
 This method involves using a hybrid classical-quantum approach to enhance seismic data processing through a Variational Quantum Classifier (VQC). The goal is to predict acoustic impedance from normalized seismic traces by integrating quantum circuits with classical neural network models. The quantum circuit utilizes angle embedding and entangling layers to capture complex data relationships, which are then processed by classical layers. A corresponding fully classical neural network is also explored in order to compare results and effectiveness of quantum method.
