@@ -168,7 +168,24 @@ Download the
 Or 
 Directly use a processed data file from the directory.
 ## Usage of the Project
-- `QWNN.ipynb` - Contains notebook for Training .
+### Uploaded Files
+
+
+- Images - Contains image files related to project.
+- `ModelClassical` - Directory with classical model files.
+- `ModelsQML` - Directory with quantum machine learning model files.
+- `README.md` - This file, providing an overview and instructions for the project.
+- `Requirements.txt` - Contains the list of dependencies required for running the project.
+- `docs` - Directory containing additional documentation and related files.
+
+### Notebooks
+
+- `ModelsQML` - Notebook for training using Quantum algorithms.
+- `ModelClassical` - Notebook for training using classical algorithms.
+
+### Data Files
+
+- `Data` - Contains processed data for training.
 
 
 ## Team Introduction
