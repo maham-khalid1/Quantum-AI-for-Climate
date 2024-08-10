@@ -114,6 +114,7 @@ This method integrates Quantum Phase Estimation (QPE) with classical seismic dat
 - Implement and optimize a QPE circuit for phase estimation in seismic data.
 - Compare the effectiveness of QPE against classical methods in seismic analysis and reservoir characterization.
 ## Results
+#### Quantum Methods:
 ![autoencddd](https://github.com/user-attachments/assets/0fdadf7e-e06b-43c7-befc-a7e5ba6e5b04)
 ![autoc](https://github.com/user-attachments/assets/8c250c6a-ce8d-4f9b-afd5-7e5e1c98fc65)
 ![PCA](https://github.com/user-attachments/assets/b0b34a8e-5448-439d-9aad-af1949d33c74)
@@ -129,6 +130,16 @@ This method integrates Quantum Phase Estimation (QPE) with classical seismic dat
 ![QPEEEEE](https://github.com/user-attachments/assets/a18b21e9-d4f0-40d8-a4ab-4fdcbcb96b58)
 ![QEPPPPPPEPPE](https://github.com/user-attachments/assets/85d26d49-533f-4b76-8be9-08fff868a82c)
 ![QEPPPSPPPPS](https://github.com/user-attachments/assets/9ed2f62e-5e34-419a-bc0c-cbcd4d8bacf8)
+
+#### Classical Methods:
+![1](https://github.com/user-attachments/assets/6879a6c1-f85a-41cc-8fe0-af1ead56a9ba)
+![2](https://github.com/user-attachments/assets/fb376610-f68b-489f-b7bf-e756545674af)
+![3](https://github.com/user-attachments/assets/46b1e48c-8d5e-4132-96b0-09178320c756)
+![4](https://github.com/user-attachments/assets/ec155e3e-0164-4057-b359-d4b371ec02d3)
+
+
+
+
 
 
 
