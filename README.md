@@ -167,9 +167,6 @@ Install the required dependencies listed in the ['requirements.txt'] file:
 Download the 
 Or 
 Directly use a processed data file from the directory.
-## Usage of the Project
-- `QWNN.ipynb` - Contains notebook for Training .
-
 
 ## Team Introduction
 **Team Name:** Q-M.A.R.S
